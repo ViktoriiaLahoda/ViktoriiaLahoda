@@ -32,7 +32,7 @@ Outside of data: I dance 💃, paint 🎨, and lift weights 🏋️‍♀️ —
 
 ## 🎯 What I'm Looking For
 
-I'm aiming to grow into a **Data Scientist** role — ideally in a team where I can work on the full pipeline: from raw data to a model that solves a real business problem. I'm especially interested in:
+I'm aiming to grow into a **Data Scientist** role where I can turn raw data into meaningful insights and actionable solutions. I’m motivated by solving real business problems, supporting data-driven decision-making, and contributing to projects that create tangible value. I'm especially interested in:
 
 - 🔍 Machine learning & predictive modelling
 - 📊 Turning analytical insights into business decisions
@@ -114,7 +114,7 @@ Poza danymi: tańczę 💃, rysuję 🎨 i chodzę na siłownię 🏋️‍♀�
 
 ## 🎯 Czego szukam
 
-Chcę rozwijać się jako **Data Scientist** — najlepiej w zespole, gdzie mogę pracować na całym pipeline'ie: od surowych danych do modelu rozwiązującego realny problem biznesowy. Szczególnie interesuję się:
+Chcę rozwijać się w roli **Data Scientista** gdzie będę mogła przekształcać surowe dane w wartościowe wnioski i praktyczne rozwiązania. Motywuje mnie rozwiązywanie rzeczywistych problemów biznesowych, wspieranie decyzji opartych na danych oraz udział w projektach, które przynoszą realną wartość. Szczególnie interesuję się:
 
 - 🔍 Machine learningiem i modelowaniem predykcyjnym
 - 📊 Przekładaniem analitycznych wniosków na decyzje biznesowe
