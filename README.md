@@ -6,7 +6,7 @@
 
 # Hi, I'm Viktoriia 👋
 
-### Data Scientist Enthusiast · Big Data Student · Analytics Intern @ Danone
+### Data Science Enthusiast · Big Data Student · Analytics Intern @ Danone
 
 *"I believe data tells stories — my job is to listen carefully and translate them into decisions."*
 
@@ -88,7 +88,7 @@ Feel free to reach out — whether it's about data, projects, or just a good con
 
 # Cześć, jestem Viktoriia 👋
 
-### Data Scientist Enthusiast · Studentka Zarządzania Big Data · Analytics Intern @ Danone
+### Data Science Enthusiast · Studentka Zarządzania Big Data · Analytics Intern @ Danone
 
 *"Wierzę, że dane opowiadają historię — moją rolą jest jej uważne wysłuchanie i przełożenie na decyzje."*
 
